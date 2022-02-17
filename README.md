@@ -1,6 +1,6 @@
 # flutter_dash
 
-A small library to draw dashed line in flutter :D
+A small library to draw dashed line in flutter. This package is null-safety version of [flutter_dash](https://pub.dev/packages/flutter_dash).
 
 ## Install
 
