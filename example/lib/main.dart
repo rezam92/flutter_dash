@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_dash/flutter_dash.dart';
+import 'package:flutter_dash_nullsafety/flutter_dash_nullsafety.dart';
+
 
 void main() => runApp(MyApp());
 

@@ -1,4 +1,4 @@
-library flutter_dash;
+library flutter_dash_nullsafety;
 
 import 'package:flutter/material.dart';
 
